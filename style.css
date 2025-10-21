@@ -7,9 +7,11 @@
 }
 
 body {
-  background-color: #ffffff;
-  color: #222;
+
+  background-color: #f7f8fa;  /* light gray background */
+  color: #222;                /* dark text for readability */
 }
+
 
 /* Navbar */
 .navbar {
@@ -130,3 +132,4 @@ footer {
   background-color: #f8f9fa;
   margin-top: 40px;
 }
+
